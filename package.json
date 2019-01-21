@@ -1,0 +1,17 @@
+{
+  "name": "hostelm-mess-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tavyandy97",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "moment-timezone": "^0.5.23",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}

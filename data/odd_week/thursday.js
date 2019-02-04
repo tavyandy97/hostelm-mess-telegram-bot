@@ -4,7 +4,7 @@ var menu = {
   Hot Milk
   Hot Coffee
   Bournvita Milk
-  Egg Bhurji
+  Omelette
   Mix Veg. Parantha w Curd
   Tea
   White and Brown Bread
@@ -13,16 +13,16 @@ var menu = {
   Butter
   `,
   lunch: `
-  Pav Bhaji
-  Tamarind Rice
+  Chhola Kulcha
+  Fried Rice
   Boondi Raita
-  Pickle, Salad(Onion and Sliced Lemon)
+  Lacha
   `,
   dinner: `
-  Gud Wali Kheer
+  Besan Barfi
   Mix Veg. Raita
-  Aloo Matar Rassadar
-  Veg. Biryani
+  Aloo Matar Rasadar
+  Veg Biryani
   Chapati
   Pickle, Salad
   `

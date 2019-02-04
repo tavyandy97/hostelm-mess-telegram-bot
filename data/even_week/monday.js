@@ -4,8 +4,8 @@ var menu = {
   Hot Milk
   Hot Coffee
   Bournvita Milk
-  Omelette
-  Aloo Parantha w Curd
+  Egg Bhurji
+  Daal Parantha w Curd
   Cornflakes
   Tea
   Brown and White Bread
@@ -20,8 +20,8 @@ var menu = {
   Pickle, Salad(Onion and Sliced Lemon)
   `,
   dinner: `
-  Coconut Barfi
-  Chana Dal
+  Gud Wali Kheer
+  Dal Fry
   Gheeya Kofta
   Peas Pulao
   Missi Roti

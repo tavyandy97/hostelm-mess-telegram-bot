@@ -1,10 +1,10 @@
 var menu = {
   breakfast: `
-  Chana Chaat
+  Moong Sprouts
   Hot Milk
   Hot Coffee
   Bournvita Milk
-  Omelette
+  Egg Bhurji
   Aloo Pyaaz Parantha w Curd
   CornFlakes
   Tea
@@ -17,7 +17,9 @@ var menu = {
   Chapati
   Jeera Rice
   Mix Veg. Raita
-  Rajma Masala
+  Black Chana
+  Aloo Beans
+  Pickle,Salad, Mix Chutney
   `,
   dinner: `
   Suji Halwa

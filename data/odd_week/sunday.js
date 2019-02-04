@@ -5,7 +5,7 @@ var menu = {
   Hot Coffee
   Bournvita Milk
   Omelette
-  Ajwain Parantha w Curd
+  Ajwain Parantha w Aloo Sabji
   Tea
   Brown and White Bread
   Boiled Egg
@@ -16,14 +16,14 @@ var menu = {
   Jeera Rice
   Boondi Raita
   Mix Veg.
-  Moong Dal
+  Rajma
   Pickle, Salad
   `,
   dinner: `
   Jalebi
-  Palak Corn
-  Moong Dal
-  Steamed Rice
+  Panchratan Dal
+  Ghiya Kofta
+  Rice
   Chapati
   Pickle, Salad
   Sweet Corn Soup

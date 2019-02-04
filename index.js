@@ -1,12 +1,11 @@
 const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
-const moment = require('moment-timezone');
 require('dotenv').config();
 
 const token = process.env.TELEGRAM_BOT_TOKEN;
 const port = process.env.PORT;
 const bot = new TelegramBot(token, {
-  polling: true
+  polling: true,
 });
 var app = express();
 
@@ -30,4 +29,4 @@ bot.on('message', (msg) => {
 
 app.listen( port , () => {
   console.log(`Started listening to port : ${port}...`);
-})
+});

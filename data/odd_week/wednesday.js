@@ -1,11 +1,11 @@
 var menu = {
   breakfast: `
-  Moong Sprouts
+  Chana Chaat
   Hot Milk
   Hot Coffee
   Bournvita Milk
-  Omelette
-  Aloo Parantha w Curd
+  Egg Bhurji
+  Dal Parantha w Curd
   Cornflakes
   Tea
   Brown and White Bread
@@ -15,17 +15,17 @@ var menu = {
   `,
   lunch: `
   Chapati
-  Steamed Rice
-  Chana Dal
-  Paneer Matar
+  Jeera Steam Rice
+  Lemon Water
+  Kadhai Paneer
   Mint Chutney
   Pickle, Salad
   `,
   dinner: `
-  Besan Barfi
+  Gud Wali Kheer
+  Palak Corn
   Dal Makhni
-  Gheeya Kofta
-  Rice
+  Steam Rice
   Chapati
   Pickle, Salad
   Hot & Sour Soup

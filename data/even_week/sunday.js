@@ -22,7 +22,7 @@ var menu = {
   `,
   dinner: `
   Jalebi
-  Masoor Black
+  Dal Makhni
   Aloo Gobi Adraki
   Steamed Rice
   Chapati

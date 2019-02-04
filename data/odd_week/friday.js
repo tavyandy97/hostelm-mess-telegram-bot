@@ -4,7 +4,7 @@ var menu = {
   Hot Milk
   Hot Coffee
   Bournvita Milk
-  Omelette
+  Egg Bhurji
   Paneer Parantha w Chutney
   Tea
   Brown and White Bread
@@ -16,14 +16,14 @@ var menu = {
   Chapati
   Peas Rice
   Dal Makhni
-  Aloo Gobi Dry
-  Jeera Raita
+  Fruit Raita
+  Mix Veg.
   Pickle, Salad
   `,
   dinner: `
   Gulab Jamun
-  Mix Veg.
-  Chana Masala
+  Aloo Palak Bhurji
+  Arhar Dal Fry
   Rice
   Chapati
   Pickle, Salad

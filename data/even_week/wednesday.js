@@ -4,31 +4,31 @@ var menu = {
   Hot Milk
   Hot Coffee
   Bournvita Milk
-  Omelette
+  Egg Bhurji
   Mix Veg. Parantha w Curd
-  CornFlakes
+  Cornflakes
   Tea
   Brown and White Bread
   Boiled Eggs
-  Pickle, Jam , Sauce
+  Pickle, Jam, Sauce
   Butter
   `,
   lunch: `
   Chapati
   Peas Rice
-  Mix Raita
+  Gheeya Raita
   Mix Veg.
-  Arhar Dal
+  Dal Makhni
   Pickle, Salad
   `,
   dinner: `
-  Gulab Jamun
-  Sarson Ka Saag
-  Chana Dal
-  Makki Ki Roti
+  Besan Barfi
+  Rajma
+  Tomato Chutney
+  Jeera Rice
   Chapati
   Pickle, Salad
-  Hot and Sour Soup
+  Hot & Sour Soup
   `
 }
 ;

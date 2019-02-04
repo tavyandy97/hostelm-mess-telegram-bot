@@ -22,11 +22,10 @@ var menu = {
   Pickle, Laccha Onion
   `,
   dinner: `
-  Gud/Sawaiya
+  Sawaiya Kheer
   Sarson Ka Saag
-  Chana Dal
+  Maa ki Dal
   Makki Ki Roti
-  Chapati
   Pickle, Salad
   `
 }

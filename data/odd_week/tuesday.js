@@ -4,7 +4,7 @@ var menu = {
   Hot Milk
   Hot Coffee
   Bournvita Milk
-  Egg Bhurji
+  Omelette
   Gobi Parantha w Curd
   Tea
   Brown and White Bread
@@ -14,14 +14,15 @@ var menu = {
   `,
   lunch: `
   Chapati
-  Jeera Rice
-  Pakoda Curry
+  Steam Rice
+  Tomato, Green Chilli Chutney
+  Pakoda Kadhi
   Aloo Jeera
   Pickle, Salad
   `,
   dinner: `
-  Boondi Laddu
-  Gajar Matar
+  Coconut Laddu
+  Aloo Methi
   Rajma
   Rice
   Chapati

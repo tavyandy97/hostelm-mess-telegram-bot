@@ -1,10 +1,10 @@
 var menu = {
   breakfast: `
-  Veg. Sandwich
+  Veg. Cutlet
   Hot Milk
   Hot Coffee
   Bournvita Milk
-  Egg Bhurji
+  Omelette
   Methi Parantha w Curd
   Tea
   Brown and White Bread
@@ -14,14 +14,15 @@ var menu = {
   `,
   lunch: `
   Chapati
-  Steamed Rice
-  Moong Dal Palak
-  Gajar Matar
+  Steam Rice
+  Fruit Raita
+  Kaali Masoor
+  Aloo Beans
   Pickle, Salad
   `,
   dinner: `
   Suji Halwa
-  Moong Masoor
+  Green Chutney
   Paneer Butter Masala
   Rice
   Chapati

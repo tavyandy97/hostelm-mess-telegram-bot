@@ -1,10 +1,10 @@
 var menu = {
   breakfast: `
-  Veg. Cutlet
+  Moong Sprouts
   Hot Milk
   Hot Coffee
   Bournvita Milk
-  Egg Bhurji
+  Omelette
   Paneer Parantha w Chutney
   Tea
   Brown and White Bread
@@ -13,16 +13,17 @@ var menu = {
   Butter
   `,
   lunch: `
-  Chapati
-  Steamed Rice
-  Aloo Jeera
-  Pakoda Curry
+  Missi Roti
+  Jeera Rice
+  Green Beans Aloo
+  Boondi Raita
+  Arhar Dal
   Pickle, Salad
   `,
   dinner: `
-  Gud Wali Kheer
-  Dal Makhni
-  Aloo Palak Dry
+  Sewaiyan
+  Panchrattan Dal
+  Kadhai Soya
   Veg. Pulao
   Chapati
   Pickle, Salad

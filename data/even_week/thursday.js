@@ -1,13 +1,13 @@
 var menu = {
   breakfast: `
-  Moong Sprouts
+  Veg. Sandwich
   Hot Milk
   Hot Coffee
   Bournvita Milk
-  Egg Bhurji
+  Omelette
   Aloo Pyaaz Parantha w Curd
   Tea
-  Brown and White Bread
+  White and Brown Bread
   Boiled Eggs
   Pickle, Jam, Sauce
   Butter
@@ -15,15 +15,15 @@ var menu = {
   lunch: `
   Chapati
   Jeera Rice
-  Chana Dal
-  Paneer Matar
   Mint Chutney
+  Paneer Matar
+  Vinegar Onion Salad
   Pickle, Salad
   `,
   dinner: `
-  Boondi Laddu
+  Coconut Laddu
   Palak Corn
-  Moong Dal
+  Moong ki Dal
   Rice
   Chapati
   Pickle, Salad

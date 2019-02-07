@@ -10,6 +10,7 @@ const bot = new TelegramBot(token, {
 var app = express();
 
 const {getMenu} = require('./data/menu');
+const { logResponse } = require('./botmetrics');
 
 bot.on('message', (msg) => {
   const chatId = msg.chat.id;
@@ -23,8 +24,10 @@ bot.on('message', (msg) => {
       ]
     })
   };
-  var response = getMenu(msg.text);
+  var response = getMenu(msg.text , chatId);
   bot.sendMessage(chatId, response , opts);
+  if(response !== 'Please Select a Valid Meal...')
+    logResponse(response , chatId);
 });
 
 app.listen( port , () => {

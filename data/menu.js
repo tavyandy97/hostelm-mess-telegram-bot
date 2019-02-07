@@ -14,6 +14,8 @@ const FRIDAY_MENU_EVEN = require('./even_week/friday');
 const SATURDAY_MENU_EVEN = require('./even_week/saturday');
 const SUNDAY_MENU_EVEN = require('./even_week/sunday');
 
+const { logRequest } = require('../botmetrics');
+
 function getNumberOfWeek() {
   // const today = new Date();
   const today = new Date(new Date().toLocaleString("en-US", {timeZone: "Asia/Kolkata"}));
@@ -23,10 +25,11 @@ function getNumberOfWeek() {
   // return Math.ceil((pastDaysOfYear + firstDayOfYear.getDay() + 1) / 7)-1;
   return Math.floor(pastDaysOfYear/7);
 }
-var getMenu = (meal) => {
+var getMenu = (meal , chatId) => {
   if(!(meal === 'Breakfast' || meal === 'Lunch' || meal == 'Dinner')){
     return 'Please Select a Valid Meal...';
   }
+  logRequest(meal , chatId);
   const today = new Date(new Date().toLocaleString("en-US", {timeZone: "Asia/Kolkata"}));
   const noOfWeeks = getNumberOfWeek();
   if(noOfWeeks %2 == 0){

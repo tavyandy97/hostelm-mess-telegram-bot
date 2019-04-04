@@ -1,36 +1,34 @@
 var menu = {
   breakfast: `
-  Bread Pakoda
+  Vermicilli
   Hot Milk
-  Hot Coffee
-  Bournvita Milk
+  Hot Tea
+  Cold Coffee
   Egg Bhurji
-  Methi Parantha w Curd
-  Cornflakes
-  Tea
+  Paneer Parantha w Chutney
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
   Butter
   `,
   lunch: `
-  Puri
-  Steamed Rice
-  Sweet Lassi
-  Green Chutney
-  Aloo Curry
-  Pickle, Laccha Onion
+  Chapati
+  Jeera Rice
+  Boondi Raita
+  Mix Veg.
+  Dal Makhni
+  Pickle, Salad
+  Rooh Afza Water
   `,
   dinner: `
-  Sawaiya Kheer
-  Sarson Ka Saag
-  Maa ki Dal
-  Makki Ki Roti
+  Fruit Cake
+  Mix Veg. Raita
+  Aloo Matar Rassadar
+  Veg. Biryani
+  Chapati
   Pickle, Salad
   `
-}
-;
-
+};
 module.exports = {
   menu
-}
+};

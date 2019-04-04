@@ -2,11 +2,12 @@ var menu = {
   breakfast: `
   Veg. Sandwich
   Hot Milk
-  Hot Coffee
-  Bournvita Milk
-  Egg Bhurji
-  Paneer Parantha w Chutney
-  Tea
+  Hot Tea
+  Cold Coffee
+  Omelette
+  Utpam Sambar
+  Coconut Chutney
+  Cornflakes
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
@@ -15,23 +16,22 @@ var menu = {
   lunch: `
   Chapati
   Peas Rice
-  Dal Makhni
-  Fruit Raita
-  Mix Veg.
+  Rajma
+  Cucumber Raita
+  Aloo Palak
   Pickle, Salad
+  Rooh Afza Water
   `,
   dinner: `
   Gulab Jamun
-  Aloo Palak Bhurji
-  Arhar Dal Fry
+  Kadhai Paneer
+  Mint Chutney
   Rice
   Chapati
   Pickle, Salad
-  Veg. Soup
+  Vinegar Onion
   `
-}
-;
-
+};
 module.exports = {
   menu
-}
+};

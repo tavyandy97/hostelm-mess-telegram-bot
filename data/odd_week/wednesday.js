@@ -1,13 +1,12 @@
 var menu = {
   breakfast: `
-  Chana Chaat
+  Veg. Daliya
   Hot Milk
-  Hot Coffee
-  Bournvita Milk
+  Hot Tea
+  Cold Coffee
   Egg Bhurji
-  Dal Parantha w Curd
+  Mix Veg. Parantha w Curd
   Cornflakes
-  Tea
   Brown and White Bread
   Boiled Eggs
   Pickle, Jam, Sauce
@@ -16,23 +15,21 @@ var menu = {
   lunch: `
   Chapati
   Jeera Steam Rice
-  Lemon Water
-  Kadhai Paneer
-  Mint Chutney
+  Boondi Raita
+  Mix Veg.
+  Black Channa Masala
   Pickle, Salad
+  Rooh Afza Water
   `,
   dinner: `
-  Gud Wali Kheer
-  Palak Corn
+  Sevaiyan Kheer
+  Kadhai Soya
   Dal Makhni
   Steam Rice
   Chapati
   Pickle, Salad
-  Hot & Sour Soup
   `
-}
-;
-
+};
 module.exports = {
   menu
-}
+};

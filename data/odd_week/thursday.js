@@ -1,12 +1,11 @@
 var menu = {
   breakfast: `
-  Vermicili
+  Channa Chaat
   Hot Milk
-  Hot Coffee
-  Bournvita Milk
+  Hot Tea
+  Rooh Afza Milk
   Omelette
-  Mix Veg. Parantha w Curd
-  Tea
+  Aloo Parantha w Curd
   White and Brown Bread
   Boiled Eggs
   Pickle, Jam, Sauce
@@ -15,20 +14,21 @@ var menu = {
   lunch: `
   Chhola Kulcha
   Fried Rice
-  Boondi Raita
+  Jeera Pudina Raita
   Lacha
+  Tomato, Green Chilli Chutney
+  Pickle Laccha Onion
+  Lemon Shikanji
   `,
   dinner: `
-  Besan Barfi
-  Mix Veg. Raita
-  Aloo Matar Rasadar
-  Veg Biryani
-  Chapati
+  Fruit Custard
+  Mix Veg.
+  Maa Ki Daal
+  Makki Ki Roti
+  Rice
   Pickle, Salad
   `
-}
-;
-
+};
 module.exports = {
   menu
-}
+};

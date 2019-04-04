@@ -1,12 +1,11 @@
 var menu = {
   breakfast: `
-  Macaroni
+  Veg. Poha
   Hot Milk
-  Hot Coffee
-  Bournvita Milk
+  Hot Tea
+  Rooh Afza Milk
   Omelette
-  Gobi Parantha w Curd
-  Tea
+  Daal Parantha w Curd
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
@@ -19,18 +18,17 @@ var menu = {
   Pakoda Kadhi
   Aloo Jeera
   Pickle, Salad
+  Lemon Shikanji
   `,
   dinner: `
-  Coconut Laddu
-  Aloo Methi
-  Rajma
-  Rice
+  Ice Cream
+  Plain Rice
+  Gheeya Kofta
+  Dal Fry
   Chapati
   Pickle, Salad
   `
-}
-;
-
+};
 module.exports = {
   menu
-}
+};

@@ -1,11 +1,12 @@
 var menu = {
   breakfast: `
-  Veg. Poha
+  Veg. Cutlet
   Hot Milk
-  Hot Tea
-  Rooh Afza Milk
+  Hot Coffee
+  Bournvita Milk
   Omelette
-  Daal Parantha w Curd
+  Methi Parantha w Curd
+  Tea
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
@@ -14,21 +15,22 @@ var menu = {
   lunch: `
   Chapati
   Steam Rice
-  Tomato, Green Chilli Chutney
-  Pakoda Kadhi
-  Aloo Jeera
+  Fruit Raita
+  Kaali Masoor
+  Aloo Beans
   Pickle, Salad
-  Lemon Shikanji
   `,
   dinner: `
-  Ice Cream
-  Plain Rice
-  Gheeya Kofta
-  Dal Fry
+  Suji Halwa
+  Green Chutney
+  Paneer Butter Masala
+  Rice
   Chapati
   Pickle, Salad
   `
-};
+}
+;
+
 module.exports = {
   menu
-};
+}

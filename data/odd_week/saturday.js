@@ -1,34 +1,36 @@
 var menu = {
   breakfast: `
-  Vermicilli
+  Moong Sprouts
   Hot Milk
-  Hot Tea
-  Cold Coffee
-  Egg Bhurji
+  Hot Coffee
+  Bournvita Milk
+  Omelette
   Paneer Parantha w Chutney
+  Tea
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
   Butter
   `,
   lunch: `
-  Chapati
+  Missi Roti
   Jeera Rice
+  Green Beans Aloo
   Boondi Raita
-  Mix Veg.
-  Dal Makhni
+  Arhar Dal
   Pickle, Salad
-  Rooh Afza Water
   `,
   dinner: `
-  Fruit Cake
-  Mix Veg. Raita
-  Aloo Matar Rassadar
-  Veg. Biryani
+  Sewaiyan
+  Panchrattan Dal
+  Kadhai Soya
+  Veg. Pulao
   Chapati
   Pickle, Salad
   `
-};
+}
+;
+
 module.exports = {
   menu
-};
+}

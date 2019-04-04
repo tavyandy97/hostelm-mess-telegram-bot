@@ -1,13 +1,13 @@
 var menu = {
   breakfast: `
-  Macaroni
+  Veg. Sandwich
   Hot Milk
-  Hot Coffee
-  Bournvita Milk
-  Egg Bhurji
-  Gobi Parantha w Curd
+  Hot Tea
+  Cold Coffee
+  Omelette
+  Utpam Sambar
+  Coconut Chutney
   Cornflakes
-  Tea
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
@@ -15,24 +15,23 @@ var menu = {
   `,
   lunch: `
   Chapati
-  Steam Rice
-  Tomato Chutney
-  Aloo Jeera
-  Pakoda CUrry
-  Spicy Tomato Chutney
-  Pickle Salad
+  Peas Rice
+  Rajma
+  Cucumber Raita
+  Aloo Palak
+  Pickle, Salad
+  Rooh Afza Water
   `,
   dinner: `
   Gulab Jamun
-  Sarson ka Saag
-  Maa ki Dal
-  Makki ki Roti
+  Kadhai Paneer
+  Mint Chutney
+  Rice
+  Chapati
   Pickle, Salad
-  Sweet Corn Soup
+  Vinegar Onion
   `
-}
-;
-
+};
 module.exports = {
   menu
-}
+};

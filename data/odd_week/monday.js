@@ -2,35 +2,35 @@ var menu = {
   breakfast: `
   Moong Sprouts
   Hot Milk
-  Hot Tea
-  Cold Coffee
+  Hot Coffee
+  Bournvita Milk
   Egg Bhurji
-  Methi Pyaaz Parantha w Curd
-  CornFlakes
+  Daal Parantha w Curd
+  Cornflakes
+  Tea
   Brown and White Bread
   Boiled Eggs
-  Pickle, Jam , Sauce
+  Pickle, Jam, Sauce
   Butter
   `,
   lunch: `
-  Chapati
-  Jeera Rice
-  Mix Veg. Raita
-  Rajma
-  Aloo Beans
-  Pickle,Salad
-  Rooh Afza Water
+  Pav Bhaji
+  Veg. Pulao
+  Boondi Raita
+  Pickle, Salad(Onion and Sliced Lemon)
   `,
   dinner: `
-  Rice Kheer
-  Paneer Lababdar
-  Green Chutney
-  Jeera Rice
-  Chapati
-  Pickle, Salad
-  Vinegar Onion
+  Gud Wali Kheer
+  Dal Fry
+  Gheeya Kofta
+  Peas Pulao
+  Missi Roti
+  Pickle Salad
+  Manchow Soup
   `
-};
+}
+;
+
 module.exports = {
   menu
-};
+}

@@ -2,33 +2,36 @@ var menu = {
   breakfast: `
   Sweet Corn
   Hot Milk
-  Hot Tea
-  Cold Coffee
-  Egg Bhurji
-  Ajwain Parantha w Aloo Sabji
+  Hot Coffee
+  Bournvita Milk
+  Omelette
+  Ajwain Parantha
+  Jeera Aloo
+  Tea
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
-  Butter
-  `,
+  Butter`,
   lunch: `
-  Bhature
-  Steamed Rice
+  Bhatura
+  Peas Pulao
   Sweet Lassi
+  Chhole
   Green Chutney
-  Chholle
   Pickle, Laccha Onion
-  Lemon Water
   `,
   dinner: `
   Jalebi
-  Panchratan Dal
-  Palak Corn
-  Rice
+  Dal Makhni
+  Aloo Gobi Adraki
+  Steamed Rice
   Chapati
   Pickle, Salad
+  Tomato Soup
   `
-};
+}
+;
+
 module.exports = {
   menu
-};
+}

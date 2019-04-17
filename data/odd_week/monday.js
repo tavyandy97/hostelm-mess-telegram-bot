@@ -2,10 +2,10 @@ var menu = {
   breakfast: `
   Moong Sprouts
   Hot Milk
-  Hot Coffee
-  Bournvita Milk
+  Hot Tea
+  Cold Coffee
   Egg Bhurji
-  Daal Parantha w Curd
+  Gobhi Parantha w Curd
   Cornflakes
   Tea
   Brown and White Bread
@@ -14,23 +14,23 @@ var menu = {
   Butter
   `,
   lunch: `
-  Pav Bhaji
-  Veg. Pulao
-  Boondi Raita
-  Pickle, Salad(Onion and Sliced Lemon)
+  Chapati
+  Peas Pulao
+  Nutri Chura
+  Maa Ki Daal
+  Plain Dahi
+  Lemon Shikanji
+  Pickle, Salad
   `,
   dinner: `
-  Gud Wali Kheer
-  Dal Fry
-  Gheeya Kofta
+  Boondi Laddu
+  Moong Daal Tadka
+  Green Beans
   Peas Pulao
   Missi Roti
-  Pickle Salad
-  Manchow Soup
+  Pickle, Salad
   `
-}
-;
-
+};
 module.exports = {
   menu
-}
+};

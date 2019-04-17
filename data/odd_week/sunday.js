@@ -2,21 +2,20 @@ var menu = {
   breakfast: `
   Sweet Corn
   Hot Milk
-  Hot Coffee
-  Bournvita Milk
-  Omelette
+  Hot Tea
+  Cold Coffee
+  Egg Bhurji
   Ajwain Parantha
   Jeera Aloo
-  Tea
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
   Butter`,
   lunch: `
-  Bhatura
+  Puri
   Peas Pulao
   Sweet Lassi
-  Chhole
+  Aloo Curry
   Green Chutney
   Pickle, Laccha Onion
   `,
@@ -27,11 +26,8 @@ var menu = {
   Steamed Rice
   Chapati
   Pickle, Salad
-  Tomato Soup
   `
-}
-;
-
+};
 module.exports = {
   menu
-}
+};

@@ -1,12 +1,12 @@
 var menu = {
   breakfast: `
-  Moong Sprouts
+  Veg. Sandwich
   Hot Milk
-  Hot Coffee
-  Bournvita Milk
+  Hot Tea
+  Cold Coffee
   Omelette
-  Paneer Parantha w Chutney
-  Tea
+  Utapam Sambar w Coconut Chutney
+  Cornflakes
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
@@ -15,22 +15,21 @@ var menu = {
   lunch: `
   Missi Roti
   Jeera Rice
-  Green Beans Aloo
+  Aloo Gobi Adraki
   Boondi Raita
-  Arhar Dal
+  Arhar Dal Fry
+  Rooh Afza Water
   Pickle, Salad
   `,
   dinner: `
-  Sewaiyan
+  Ice Cream
   Panchrattan Dal
   Kadhai Soya
   Veg. Pulao
   Chapati
   Pickle, Salad
   `
-}
-;
-
+};
 module.exports = {
   menu
-}
+};

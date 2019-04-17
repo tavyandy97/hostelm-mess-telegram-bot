@@ -1,12 +1,11 @@
 var menu = {
   breakfast: `
-  Veg. Cutlet
+  Veg. Daliya
   Hot Milk
-  Hot Coffee
-  Bournvita Milk
+  Hot Tea
+  Cold Coffee
   Omelette
-  Methi Parantha w Curd
-  Tea
+  Daal Parantha w Curd
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
@@ -15,9 +14,10 @@ var menu = {
   lunch: `
   Chapati
   Steam Rice
-  Fruit Raita
-  Kaali Masoor
-  Aloo Beans
+  Cucumber Raita
+  Chana Masala
+  Lauki Ki Sabji
+  Rooh Afza Water
   Pickle, Salad
   `,
   dinner: `
@@ -27,10 +27,9 @@ var menu = {
   Rice
   Chapati
   Pickle, Salad
+  Vinegar Onion
   `
-}
-;
-
+};
 module.exports = {
   menu
-}
+};

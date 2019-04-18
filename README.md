@@ -34,3 +34,15 @@ The bot analytics are being handled by [BotMetrics ](https://bot-metrics.com/). 
 
 ![BotMetrics Analytics](https://i.ibb.co/bXwHfYY/Bot-Metrics.png "BotMetrics Analytics")
 
+To run the bot service locally define the following environment variables (in a .env file) and run the subsequent commands.
+
+- TELEGRAM_BOT_TOKEN
+- PORT
+- BOTMETRICS_TOKEN
+
+```
+$	npm install
+$	npm start
+```
+
+------------------

@@ -44,5 +44,3 @@ To run the bot service locally define the following environment variables (in a 
 $	npm install
 $	npm start
 ```
-
-------------------

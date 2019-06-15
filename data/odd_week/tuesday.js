@@ -1,9 +1,9 @@
 var menu = {
   breakfast: `
-  Veg. Daliya
+  Veg. Poha
   Hot Milk
   Hot Tea
-  Cold Coffee
+  Rooh Afza Milk
   Omelette
   Daal Parantha w Curd
   Brown and White Bread
@@ -14,20 +14,18 @@ var menu = {
   lunch: `
   Chapati
   Steam Rice
-  Cucumber Raita
-  Chana Masala
-  Lauki Ki Sabji
-  Rooh Afza Water
+  Tomato Green Chilli Chutney
+  Pakoda Kadhi
+  Aloo Jeera
+  Lemon Shikanji
   Pickle, Salad
   `,
   dinner: `
-  Suji Halwa
-  Green Chutney
-  Paneer Butter Masala
+  Aloo Methi
+  Ghiya Kofta
   Rice
   Chapati
   Pickle, Salad
-  Vinegar Onion
   `
 };
 module.exports = {

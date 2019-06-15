@@ -1,30 +1,30 @@
 var menu = {
   breakfast: `
-  Vermicilli
+  Veg. Sandwich
   Hot Milk
   Hot Tea
   Cold Coffee
-  Egg Bhurji
-  Paneer Parantha w Chutney
+  Omelette
+  Utpam Sambar w/ Coconut Chutney
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
   Butter
   `,
   lunch: `
-  Chapati
+  Missi Roti
   Jeera Rice
+  Aloo Gobhi Adraki
   Boondi Raita
-  Mix Veg.
-  Dal Makhni
+  Arhar Dal Fry
   Pickle, Salad
   Rooh Afza Water
   `,
   dinner: `
-  Fruit Cake
-  Mix Veg. Raita
-  Aloo Matar Rassadar
-  Veg. Biryani
+  Ice Cream
+  Panchrattan Dal
+  Kadhai Soya
+  Veg. Pulao
   Chapati
   Pickle, Salad
   `

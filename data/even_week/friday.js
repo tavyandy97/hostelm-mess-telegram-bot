@@ -1,12 +1,11 @@
 var menu = {
   breakfast: `
-  Veg. Sandwich
+  Veg. Poha
   Hot Milk
   Hot Tea
-  Cold Coffee
-  Omelette
-  Utpam Sambar
-  Coconut Chutney
+  Rooh Afza Water
+  Boiled Egg
+  Paneer Parantha w/ Chutney
   Cornflakes
   Brown and White Bread
   Boiled Egg
@@ -15,21 +14,20 @@ var menu = {
   `,
   lunch: `
   Chapati
-  Peas Rice
+  Fried Rice
+  Mix Raita
+  Baingan Bhartha
   Rajma
-  Cucumber Raita
-  Aloo Palak
+  Lemon Water
   Pickle, Salad
-  Rooh Afza Water
   `,
   dinner: `
   Gulab Jamun
-  Kadhai Paneer
-  Mint Chutney
-  Rice
+  Mix. Veg.
+  Maa ki Daal
+  Makki Ki Roti
   Chapati
   Pickle, Salad
-  Vinegar Onion
   `
 };
 module.exports = {

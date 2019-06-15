@@ -5,25 +5,28 @@ var menu = {
   Hot Tea
   Cold Coffee
   Egg Bhurji
-  Ajwain Parantha
-  Jeera Aloo
+  Ajjwain Parantha
+  Aloo Sabji
+  Cornflakes
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
-  Butter`,
+  Butter
+  `,
   lunch: `
-  Puri
-  Peas Pulao
+  Bhature
+  Steam Rice
   Sweet Lassi
-  Aloo Curry
   Green Chutney
+  Chholey
   Pickle, Laccha Onion
+  Lemon Water
   `,
   dinner: `
   Jalebi
-  Dal Makhni
-  Aloo Gobi Adraki
-  Steamed Rice
+  Panchrattan Dal
+  Palak Corn
+  Rice
   Chapati
   Pickle, Salad
   `

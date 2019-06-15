@@ -12,19 +12,18 @@ var menu = {
   Butter
   `,
   lunch: `
-  Bhature
-  Steamed Rice
+  Puri
+  Peas Pulao
   Sweet Lassi
   Green Chutney
-  Chholle
+  Aloo Curry
   Pickle, Laccha Onion
-  Lemon Water
   `,
   dinner: `
   Jalebi
-  Panchratan Dal
-  Palak Corn
-  Rice
+  Dal Makhni
+  Steam Rice
+  Aloo Gobhi Adraki
   Chapati
   Pickle, Salad
   `

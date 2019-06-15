@@ -1,11 +1,12 @@
 var menu = {
   breakfast: `
-  Veg. Poha
+  Dalia
   Hot Milk
   Hot Tea
   Rooh Afza Milk
   Omelette
   Daal Parantha w Curd
+  Cornflakes
   Brown and White Bread
   Boiled Egg
   Pickle, Jam, Sauce
@@ -14,17 +15,16 @@ var menu = {
   lunch: `
   Chapati
   Steam Rice
-  Tomato, Green Chilli Chutney
-  Pakoda Kadhi
-  Aloo Jeera
+  Chana Masala
+  Rooh Afza Water
   Pickle, Salad
-  Lemon Shikanji
   `,
   dinner: `
-  Ice Cream
-  Plain Rice
-  Gheeya Kofta
-  Dal Fry
+  Suji Halwa
+  Green Chutney
+  Paneer Butter Masala
+  Rice
+  Vinegar Onion
   Chapati
   Pickle, Salad
   `

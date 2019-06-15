@@ -5,8 +5,8 @@ var menu = {
   Hot Tea
   Cold Coffee
   Egg Bhurji
-  Methi Pyaaz Parantha w Curd
-  CornFlakes
+  Gobhi Parantha w Curd
+  Cornflakes
   Brown and White Bread
   Boiled Eggs
   Pickle, Jam , Sauce
@@ -14,21 +14,19 @@ var menu = {
   `,
   lunch: `
   Chapati
-  Jeera Rice
-  Mix Veg. Raita
-  Rajma
-  Aloo Beans
+  Maa ki Daal
+  Nutri Chura
+  Rice
+  Plain Dahi
   Pickle,Salad
-  Rooh Afza Water
   `,
   dinner: `
-  Rice Kheer
-  Paneer Lababdar
-  Green Chutney
-  Jeera Rice
-  Chapati
+  Moong Dal Tadka
+  Kheer
+  Rice Pulao
+  Aloo Beans
+  Roti
   Pickle, Salad
-  Vinegar Onion
   `
 };
 module.exports = {

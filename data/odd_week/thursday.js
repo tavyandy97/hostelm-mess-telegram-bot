@@ -1,9 +1,9 @@
 var menu = {
   breakfast: `
-  Veg. Daliya
+  Channa Chaat
   Hot Milk
   Hot Tea
-  Cold Coffee
+  Rooh Afza Milk
   Omelette
   Aloo Parantha w Curd
   White and Brown Bread
@@ -12,22 +12,21 @@ var menu = {
   Butter
   `,
   lunch: `
-  Chapati
-  Jeera Rice
-  Aloo Palak
-  Black Masoor Dal
-  Boondi Raita
-  Rooh Afza Water
-  Pickle, Salad
+  Chhola Kulcha
+  Fried Rice
+  Jeera Pudina Raita
+  Lacha 
+  Tomato Green Chilli Chutney
+  Pickle, Laccha Onion
+  Lemon Shikanji
   `,
   dinner: `
-  Rice Kheer
-  Green Chutney
-  Kadhai Paneer
+  Fruit Custard
+  Mix. Veg.
+  Maa ki Dal
+  Makki Ki Roti
   Rice
-  Chapati
   Pickle, Salad
-  Vinegar Onion
   `
 };
 module.exports = {

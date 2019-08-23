@@ -1,32 +1,36 @@
 var menu = {
   breakfast: `
-  Veg. Sandwich
-  Hot Milk
-  Hot Tea
-  Cold Coffee
-  Omelette
-  Utpam Sambar w/ Coconut Chutney
-  Brown and White Bread
+  Milk with Sugar
+  Tea 
+  Roohafza Milk
+  Curd
   Boiled Egg
-  Pickle, Jam, Sauce
   Butter
+  Mix Pickle
+  Jam , Ketchup
+  Corn Flakes
+  Veg Vermicilli
+  Egg Bhurji
+  Aloo Methi Parantha
   `,
   lunch: `
-  Missi Roti
-  Jeera Rice
-  Aloo Gobhi Adraki
-  Boondi Raita
+  Chapati
+  Steam Rice
   Arhar Dal Fry
-  Pickle, Salad
-  Rooh Afza Water
+  Mix Veg Dry
+  Plain Curd
+  Mix Pickle
+  Green Salad
+  Orange Thandai
   `,
   dinner: `
-  Ice Cream
-  Panchrattan Dal
-  Kadhai Soya
-  Veg. Pulao
+  Besan Barfi
+  Veg Biryani
+  Aloo Mataer
+  Cucumber Carrot Raita
   Chapati
-  Pickle, Salad
+  Mix Pickle
+  Green Salad
   `
 };
 module.exports = {

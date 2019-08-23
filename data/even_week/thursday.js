@@ -1,32 +1,36 @@
 var menu = {
   breakfast: `
-  Dalia
-  Hot Milk
-  Hot Tea
-  Cold Coffee
-  Omelette
-  Aloo Parantha w Curd
+  Milk w Sugar
+  Tea
+  Coffee
+  Egg Bhurji
+  Mix Veg Parantha
+  Curd
+  Channa Chat
+  Corn Flakes
   White and Brown Bread
-  Boiled Eggs
-  Pickle, Jam, Sauce
+  Boiled Egg
+  Mix Pickle
+  Jam Preserve
   Butter
   `,
   lunch: `
   Chapati
-  Jeera Rice
-  Aloo Palak
-  Black Masoor Dal
-  Boondi Raita
-  Rooh Afza Water
-  Pickle, Salad
+  Peas Pulao
+  Urad Channa Dal
+  Ghiya Raita
+  Mix Pickle
+  Green Salad
+  Lemon Shikanji
   `,
   dinner: `
-  Rice Kheer
+  Sujji Halwa
+  Kadhai Paneer
   Green Chutney
-  Rice
+  Peas Pulao
   Chapati
-  Pickle, Salad
-  Vinegar Onion
+  Mix Pickle
+  Sirka Onion
   `
 };
 module.exports = {

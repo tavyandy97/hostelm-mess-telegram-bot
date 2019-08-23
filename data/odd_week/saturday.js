@@ -1,31 +1,36 @@
 var menu = {
   breakfast: `
-  Vermicilli
-  Hot Milk
-  Hot Tea
-  Cold Coffee
-  Egg Bhurji
-  Paneer Parantha w/ Chutney
-  Brown and White Bread
+  Milk w Sugar
+  Tea
+  Roohafza Milk
+  Curd
   Boiled Egg
-  Pickle, Jam, Sauce
-  Butter`,
+  Butter
+  Mix Pickle
+  Jam, Ketchup
+  White and Brown Bread
+  Macaroni
+  Omeletes
+  Aloo Methi Parantha
+  `,
   lunch: `
   Chapati
-  Jeera Rice
-  Boondi Raita
-  Mix. Veg.
-  Daal Makhni 
-  Pickle, Salad
-  Rooh Afza Water
+  White Rice
+  Gheeya Raita
+  Lobiya Dal
+  Aloo Gobhi
+  Mix Pickle
+  Green Salad
+  Roohafza
   `,
   dinner: `
-  Fruit Cake
-  Mix. Veg. Raita
-  Aloo Matar Rasadar
-  Veg. Biryani
+  Rice Kheer
+  Moong Dal Tadka
+  Dum Aloo
+  White Rice
   Chapati
-  Pickle, Salad
+  Mix Pickle
+  Green Salad
   `
 };
 module.exports = {

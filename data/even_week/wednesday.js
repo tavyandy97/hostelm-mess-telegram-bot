@@ -1,31 +1,35 @@
 var menu = {
   breakfast: `
-  Chana Chaat
-  Hot Milk
-  Hot Tea
-  Rooh Afza Milk
-  Egg Bhurji
-  Mix Veg. Parantha w Curd
-  Brown and White Bread
-  Boiled Eggs
-  Pickle, Jam, Sauce
+  Milk w Sugar
+  Tea
+  Roohafza Milk
+  Omelets
+  Aloo Parantha
+  Curd
+  Veg Poha
+  White and Brown Bread
+  Boiled Egg
+  Mix Pickle
+  Jam Preserve
   Butter
   `,
   lunch: `
-  Chapati
-  Peas Rice
-  Ghiya Raita
-  Mix Veg.
-  Dal Makhni
-  Pickle, Salad
-  Lemon Shikanji
+  Chhole
+  Kulche
+  Fried Rice
+  Mix Veg Raita
+  Laccha Onion
+  Mix Pickle 
+  Orange Thandai
   `,
   dinner: `
-  Fruit Custard
-  Bhindi Fry/Dum Aloo
-  Jira Rice
+  Sewaiyaan Kheer 
+  Dal Panchrattan
+  Kadhai Soya
+  Jeera Rice
   Chapati
-  Pickle, Salad
+  Mix Pickle
+  Green Salad
   `
 };
 module.exports = {

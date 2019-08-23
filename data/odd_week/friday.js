@@ -1,34 +1,38 @@
 var menu = {
   breakfast: `
-  Veg. Sandwich
-  Hot Milk
-  Hot Tea
-  Rooh Afza Milk
-  Omelette
-  Utpam Sambar w/Coconut Chutney
-  Cornflakes
-  Brown and White Bread
+  Milk With Sugar
+  Tea
+  Cold Coffee
+  Curd
   Boiled Egg
-  Pickle, Jam, Sauce
   Butter
+  Mix Pickle
+  Jam Preserve
+  Tomato Ketchup
+  White and Brown Bread
+  Moong Sprouts
+  Egg Bhurji
+  Gobhi Parantha
   `,
   lunch: `
   Chapati
-  Peas Rice
-  Khera Raita
-  Rajma 
-  Aloo Palak
-  Rooh Afza Water
-  Pickle Salad
+  Peas Pulao
+  Soya Keema Mattar Dry
+  Urad Channa Dal
+  Ghiya Raita
+  Mix Pickle
+  Green Salad
+  Lemon Shikanji
+  Mix Pickle
   `,
   dinner: `
-  Gulab Jamun
-  Kadhai Paneer
-  Mint Chutney
-  Rice
+  Besan Barfi
+  Veg Biryani
+  Aloo Mattar
+  Cucumber Carrot Raita
   Chapati
-  Pickle, Salad
-  Vinegar Onion
+  Mix Pickle
+  Green Salad
   `
 };
 module.exports = {

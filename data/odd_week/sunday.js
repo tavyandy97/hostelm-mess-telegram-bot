@@ -1,34 +1,35 @@
 var menu = {
   breakfast: `
-  Sweet Corn
-  Hot Milk
-  Hot Tea
+  Milk w Sugar
+  Tea
   Cold Coffee
-  Egg Bhurji
-  Ajjwain Parantha
-  Aloo Sabji
-  Cornflakes
-  Brown and White Bread
   Boiled Egg
-  Pickle, Jam, Sauce
   Butter
+  Mix Pickle
+  Jam, Ketchup
+  White and Brown Bread
+  Aloo Curry
+  Sweet Corn
+  Egg Bhurhji
+  Ajwain Parantha
   `,
   lunch: `
-  Bhature
-  Steam Rice
-  Sweet Lassi
+  Chapati
+  Jeera Rice
   Green Chutney
-  Chholey
-  Pickle, Laccha Onion
+  Matar Paneer
+  Vinegar Onion
+  Mix Pickle
   Lemon Water
   `,
   dinner: `
   Jalebi
-  Panchrattan Dal
-  Palak Corn
-  Rice
+  Dal Makhni
+  Aloo Gobhi Dry
+  White Rice
   Chapati
-  Pickle, Salad
+  Mix Pickle
+  Green Salad
   `
 };
 module.exports = {

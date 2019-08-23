@@ -1,32 +1,36 @@
 var menu = {
   breakfast: `
-  Moong Sprouts
-  Hot Milk
-  Hot Tea
-  Cold Coffee
-  Egg Bhurji
-  Gobhi Parantha w Curd
-  Cornflakes
-  Brown and White Bread
-  Boiled Eggs
-  Pickle, Jam , Sauce
+  Milk w Sugar
+  Tea
+  Coffee
+  Curd
+  Boiled Egg
   Butter
+  Mix Pickle
+  Jam,  Sauce
+  Corn Flakes
+  Brown and White Bread
+  Moong Sprout
+  Omelet
+  Gobhi Parantha
   `,
   lunch: `
   Chapati
-  Maa ki Daal
-  Nutri Chura
-  Rice
-  Plain Dahi
-  Pickle,Salad
+  Peas Rice
+  Cucumber Raita
+  Black Channa Masala
+  Lauki ki Sabji
+  Mix Pickle
+  Green Salad
+  Roohafza
   `,
   dinner: `
   Moong Dal Tadka
-  Kheer
-  Rice Pulao
-  Aloo Beans
-  Roti
-  Pickle, Salad
+  Dum Aloo
+  White Rice
+  Chapati
+  Mix Pickle
+  Green Salad
   `
 };
 module.exports = {

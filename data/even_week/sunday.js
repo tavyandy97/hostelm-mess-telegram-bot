@@ -1,40 +1,34 @@
 var menu = {
   breakfast: `
-  Milk w Sugar
-  Tea
-  Coffee
-  Curd
-  Omelets
-  Ajwaini Parantha
-  Aloo Curry
+  Boiled Eggs
+  Egg Bhurji
+  Sweet Corn
+  Ajwain Parantha
+  Hot Milk
+  Cold Coffee
+  Bournvita Milk
   White and Brown Bread
-  Boiled Egg
-  Picle
-  Jam, Sauce
-  Butter
+  Mix Jam
+  Pickle Butter
+  Aloo Jeera
   `,
   lunch: `
-  Puri
-  Jeera Rice
-  Chhole
+  Chhole Masala
+  Plain Rice
+  Bhature
   Green Chutney
-  Mix Pickle
   Laccha Onion
   Sweet Lassi
+  Pickle
   `,
   dinner: `
+  Panchrattan Dal
+  Bhindi Besan
+  Plain Rice
+  Chapati
+  Green Salad
+  Pickle
   Jalebi
-  Dal Makhni
-  Aloo Gobhi Dry
-  White Rice
-  Chapati
-  Mix Pickle
-  Green Salad
-  Aloo Capsicum
-  Peas Pulao
-  Chapati
-  Mix Pickle
-  Green Salad
   `
 };
 module.exports = {

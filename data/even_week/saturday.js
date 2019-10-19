@@ -1,36 +1,35 @@
 var menu = {
   breakfast: `
-  Milk with Sugar
-  Tea 
-  Roohafza Milk
+  Boiled Eggs
+  Omelets
+  Aloo Puri
+  Hot Milk and Tea
+  Cold Coffee
+  Bournvita Milk
+  White and Brown Bread
+  Mix Jam
+  Pickle Butter
   Curd
-  Boiled Egg
-  Butter
-  Mix Pickle
-  Jam , Ketchup
-  Corn Flakes
-  Veg Vermicilli
-  Egg Bhurji
-  Aloo Methi Parantha
+  Cornflakes
+  Vermicilli
   `,
   lunch: `
+  Dal Makhni
+  Jeera Rice
   Chapati
-  Steam Rice
-  Arhar Dal Fry
-  Mix Veg Dry
-  Plain Curd
-  Mix Pickle
   Green Salad
-  Orange Thandai
+  Sharbat / Lemon
+  Boondi Raita
+  Pickle
   `,
   dinner: `
-  Besan Barfi
-  Veg Biryani
-  Aloo Mataer
-  Cucumber Carrot Raita
+  Arhar Dal
+  Karela Do Pyaaza
+  Onion Rice
   Chapati
-  Mix Pickle
   Green Salad
+  Pickle
+  Kulfi
   `
 };
 module.exports = {

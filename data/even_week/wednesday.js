@@ -1,35 +1,34 @@
 var menu = {
   breakfast: `
-  Milk w Sugar
-  Tea
-  Roohafza Milk
-  Omelets
-  Aloo Parantha
-  Curd
-  Veg Poha
+  Boiled Eggs
+  Egg Bhurji
+  Utpam Sambar
+  Hot Milk and Tea
+  Roohafza
+  Bournvita Milk
   White and Brown Bread
-  Boiled Egg
-  Mix Pickle
-  Jam Preserve
-  Butter
+  Mix Jam
+  Pickle Butter
+  Coconut Chutney
+  Veg Sandwich
   `,
   lunch: `
-  Chhole
-  Kulche
-  Fried Rice
-  Mix Veg Raita
-  Laccha Onion
-  Mix Pickle 
-  Orange Thandai
+  Kadhi Pakoda
+  Jeera Aloo
+  Plain Rice
+  Chapari
+  Green Salad
+  Sharbat/Lemon
+  Pickle
   `,
   dinner: `
-  Sewaiyaan Kheer 
-  Dal Panchrattan
-  Kadhai Soya
+  Paneer Butter Masala
   Jeera Rice
-  Chapati
-  Mix Pickle
-  Green Salad
+  Tandoori Roti
+  Sirka Onion
+  Green Chutney
+  Pickle
+  Sooji Halwa
   `
 };
 module.exports = {

@@ -1,35 +1,36 @@
 var menu = {
   breakfast: `
-  Milk w Sugar
-  Tea
-  Cold Coffee
-  Omeletes
+  Boiled Eggs
+  Omelets
   Paneer Parantha
-  Curd
-  Brown and White Bread
-  Boiled Egg
-  Mix Pickle
-  Jam Preserve
+  Hot Milk and Tea
+  Cold Coffee
+  Bournvita Milk
+  White and Brown Bread
+  Mix Jam
+  Pickle
   Butter
+  Curd
+  Moong Sprouts
   `,
   lunch: `
-  Chapati
-  White Rice
-  Jeera Raita
   Rajma Masala
-  Aloo Palak Dry
-  Mix Pickle
-  Green Salad
-  Roohafza
-  `,
-  dinner: `
-  Gulab Jamun
-  Chhole 
-  Pumpkin Masala
+  Baingan Bhartha
   Plain Rice
   Chapati
-  Mix Pickle
   Green Salad
+  Lemon Water
+  Ghiya Raita
+  Pickle
+  `,
+  dinner: `
+  Dal Punjabi
+  Mix Veg
+  Plain Rice
+  Chapati
+  Green Salad
+  Pickle
+  Boondi Laddu
   `
 };
 module.exports = {

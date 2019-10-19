@@ -1,37 +1,36 @@
 var menu = {
   breakfast: `
-  Milk with Sugar
-  Tea
-  Cold Coffee
+  Boiled Eggs
   Egg Bhurji
   Aloo Parantha
-  Curd
-  Corn Flakes
-  Veg Poha
+  Hot Milk and Tea
+  Cold Coffee
+  Bournvita Milk
   White and Brown Bread
-  Boiled Egg
-  Mix Pickle
-  Jam Preserve
+  Mix Jam
+  Pickle
   Butter
+  Curd
+  Cornflakes
   `,
   lunch: `
+  Black Channa 
+  Aloo Gobhi
+  Plain Rice
   Chapati
-  Jeera Rice
-  Boondi Raita
-  Mix Veg Dry
-  Dal Makhni
-  Pickle
   Green Salad
-  Lemon Water
+  Orange Tang
+  Jeera Rice
+  Pickle
   `,
   dinner: `
-  Sewaiyan Kheer
-  Dal Panchrattan
-  Kadhai Soya
+  Dal Fry
+  Dum Aloo
   Jeera Rice
   Chapati
-  Mix Pickle
   Green Salad
+  Pickle
+  Rice Kheer
   `
 };
 module.exports = {

@@ -1,36 +1,36 @@
 var menu = {
   breakfast: `
-  Milk w Sugar
-  Tea
-  Coffee
+  Boiled Eggs
+  Egg Bhurji
+  Veg Poha
+  Aloo Parantha
+  Hot Milk and Tea
+  Cold Coffee
+  Bournvita Milk
+  White and Brown Bread
+  Mix Jam
+  Pickle Butter
   Curd
-  Boiled Egg
-  Butter
-  Mix Pickle
-  Jam,  Sauce
-  Corn Flakes
-  Brown and White Bread
-  Moong Sprout
-  Omelet
-  Gobhi Parantha
+  Cornflakes
   `,
   lunch: `
+  Rajma Masala
+  Baingan Bhartha
+  Plain Rice
   Chapati
-  Peas Rice
-  Cucumber Raita
-  Black Channa Masala
-  Lauki ki Sabji
-  Mix Pickle
   Green Salad
-  Roohafza
+  Sharbat/Lemon
+  Jeera Raita
+  Pickle
   `,
   dinner: `
-  Moong Dal Tadka
-  Dum Aloo
-  White Rice
+  Dal Fry
+  Malai Kofta
+  Jeera Rice
   Chapati
-  Mix Pickle
   Green Salad
+  Pickle
+  Rice Kheer
   `
 };
 module.exports = {

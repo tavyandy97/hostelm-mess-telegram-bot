@@ -1,34 +1,34 @@
 var menu = {
   breakfast: `
-  Milk with Sugar
-  Tea 
-  Coffee
-  Omelets
-  Paneer Parantha
-  Sweet Daliya
-  Curd
+  Boiled Eggs
+  Egg Bhurji
+  Channa Chaat
+  Gobhi Parantha
+  Hot Milk
+  Cold Coffee
+  Bournvita Milk
   White and Brown Bread
-  Boiled Egg
-  Butter
+  Mix Jam
+  Pickle Butter
+  Curd
   `,
   lunch: `
+  Mattar Paneer
+  Plain Rice
   Chapati
-  White Rice
-  Jeera Raita
-  Rajma Masala
-  Aloo Palak Dry
-  Mix Pickle
-  Green Salad
-  Roohafza
+  Green Chutney
+  Vinegar Onion
+  Lemon Shikanji
+  Pickle
   `,
   dinner: `
-  Gulab Jamun
-  Chhole
-  Punpkin Masala
-  Jeera Rice
+  Black Masoor
+  Ghiya Mix
+  Plain Rice
   Chapati
-  Mix Pickle
   Green Salad
+  Pickle
+  Gulab Jamun
   `
 };
 module.exports = {

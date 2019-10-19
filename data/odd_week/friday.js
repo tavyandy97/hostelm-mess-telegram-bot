@@ -1,38 +1,35 @@
 var menu = {
   breakfast: `
-  Milk With Sugar
-  Tea
-  Cold Coffee
-  Curd
-  Boiled Egg
-  Butter
-  Mix Pickle
-  Jam Preserve
-  Tomato Ketchup
-  White and Brown Bread
-  Moong Sprouts
+  Boiled Eggs
   Egg Bhurji
+  Channa Chaat
   Gobhi Parantha
+  Hot Milk and Tea
+  Cold Coffee
+  Bournvita Milk
+  White and Brown Bread
+  Mix Jam
+  Pickle
+  Butter
+  Curd
   `,
   lunch: `
+  Mattar Paneer
+  Plain Rice
   Chapati
-  Peas Pulao
-  Soya Keema Mattar Dry
-  Urad Channa Dal
-  Ghiya Raita
-  Mix Pickle
-  Green Salad
+  Green Chutney
+  Vinegar Onion
   Lemon Shikanji
-  Mix Pickle
+  Pickle
   `,
   dinner: `
-  Besan Barfi
-  Veg Biryani
-  Aloo Mattar
-  Cucumber Carrot Raita
+  Black Masoor 
+  Ghiya Mix
+  Plain Rice
   Chapati
-  Mix Pickle
   Green Salad
+  Pickle
+  Gulab Jamun
   `
 };
 module.exports = {

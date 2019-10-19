@@ -1,36 +1,36 @@
 var menu = {
   breakfast: `
-  Milk w Sugar
-  Tea
-  Roohafza Milk
-  Curd
-  Boiled Egg
-  Butter
-  Mix Pickle
-  Jam, Ketchup
-  White and Brown Bread
-  Macaroni
-  Omeletes
+  Boiled Eggs
+  Omelets
   Aloo Methi Parantha
+  Hot Milk
+  Cold Coffee
+  Bournvita Milk
+  White and Brown Bread
+  Mix Jam
+  Pickle
+  Butter
+  Curd
+  Macaroni
   `,
   lunch: `
+  Dal Makhni
+  Mix Veg
+  Jeera Rice
   Chapati
-  White Rice
-  Gheeya Raita
-  Lobiya Dal
-  Aloo Gobhi
-  Mix Pickle
   Green Salad
-  Roohafza
+  Roohafza Water
+  Boondi Raita
+  Pickle
   `,
   dinner: `
-  Rice Kheer
-  Moong Dal Tadka
-  Dum Aloo
-  White Rice
+  Moong Dal
+  Bhindi Do Pyaaza
+  Onion Rice
   Chapati
-  Mix Pickle
   Green Salad
+  Pickle
+  Kulfi
   `
 };
 module.exports = {

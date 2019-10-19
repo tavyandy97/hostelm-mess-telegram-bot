@@ -1,35 +1,35 @@
 var menu = {
   breakfast: `
-  Milk with Suger
-  Tea
-  Roohafza Milk
+  Boiled Eggs
   Egg Bhurji
-  Mix Veg Parantha
-  Vermicilli
-  Curd
+  Utpam Sambar
+  Hot Milk and Tea
+  Roohafza
+  Bournvita Milk
   White and Brown Bread
-  Boiled Egg
+  Mix Jam
   Pickle
-  Jam
   Butter
+  Coconut Chutney
+  Veg Sandwich
   `,
   lunch: `
-  Chapati
-  White Rice
   Kadhi Pakoda
   Jeera Aloo
-  Mix Pickle
+  Plain Rice
+  Chapati
   Green Salad
-  Lemon Water
+  Roohafza
+  Pickle
   `,
   dinner: `
-  Suji Halwa
   Paneer Butter Masala
-  Green Chutney
   Jeera Rice
-  Chapati
-  Mix Pickle
+  Tandoori Roti
   Sirka Onion
+  Green CHutney
+  Pickle
+  Sooji Halwa
   `
 };
 module.exports = {
